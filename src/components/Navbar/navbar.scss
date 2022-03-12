@@ -5,6 +5,9 @@
   display: flex;
   justify-content: center;
   align-items: center;
+  background-image: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url("../../assets/images/intro.jpg");
+  background-attachment: fixed;
+  background-size: cover;
   .navbar__logo {
     width: 100px;
     height: 100px;
